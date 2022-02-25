@@ -5,7 +5,7 @@
 ###  I'm a Java developer from Buenos Aires, Argentina.
 
 - ⚙️ I know a bit of frontend but I'm more backend oriented
-- 🔰 I'm currently learning more about Java frameworks
+- 🚀 I'm currently learning more about Java frameworks
 - 👀 Curious about testing and sysadmin
 - 🚧 Working on my english skills
 - 💻 Fascinated about computer hardware
@@ -35,4 +35,4 @@
 [java_badge]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "Java"
 
 
-Thanks to https://github.com/alexandresanlim for the badges!
+Thanks to [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile) for the badges!
