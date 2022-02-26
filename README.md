@@ -9,7 +9,7 @@
 - 👀 Curious about testing and sysadmin
 - 🚧 Working on my english skills
 - 💻 Fascinated about computer hardware
-- 🙀 Fun facts: Kind of gamer, love World of Warcraft and cats :cat:
+- 🙀 Fun facts: Kind of gamer, love World of Warcraft and cats
 <!-- 🎮 Fun fact 2: I'm a pisces like Justin Bieber-->
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
