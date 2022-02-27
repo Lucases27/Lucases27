@@ -35,4 +35,4 @@
 [java_badge]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "Java"
 
 
-Thanks to [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile) for the badges!
+Credits to [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile) for the badges!
