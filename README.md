@@ -4,7 +4,7 @@
 
 ###  I'm a Java developer from Buenos Aires, Argentina.
 
-- ⚙️ I know a bit of frontend but I'm more backend oriented
+- ⚙️ I know a bit of frontend but I'm more of backend oriented
 - 🚀 I'm currently learning more about Java frameworks
 - 👀 Curious about testing and sysadmin
 - 🚧 Working on my english skills
