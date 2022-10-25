@@ -4,13 +4,9 @@
 
 ###  I'm a Java developer from Buenos Aires, Argentina.
 
-- ⚙️ I know a bit of frontend but I'm more of backend oriented
 - 🚀 I'm currently learning more about Java frameworks
-- 👀 Curious about testing and sysadmin
 - 🚧 Working on my english skills
 - 💻 Fascinated about computer hardware
-- 🙀 Fun facts: Kind of gamer, love World of Warcraft and cats
-<!-- 🎮 Fun fact 2: I'm a pisces like Justin Bieber-->
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
